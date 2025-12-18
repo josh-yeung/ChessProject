@@ -13,7 +13,7 @@ using namespace std;
 int main() {
     Model m{};
     Text t{&m};
-    // Graphics g{&m};
+    Graphics g{&m};
     Controller c{&m};
     string command;
     while (cin >> command) {
