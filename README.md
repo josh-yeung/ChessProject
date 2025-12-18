@@ -2,9 +2,13 @@
 
 Chess is a terminal-and-X11 chess program that enforces every rule of chess, lets you script games through stdin, and can be played against humans or the bundled computer opponent. The codebase follows a lightweight MVC architecture so the rules engine, controller, text view, and graphical view remain decoupled.
 
-<img width="405" height="428" alt="image" src="https://github.com/user-attachments/assets/5c4a1f40-c3df-4d53-9bca-033264c20f84" />
-
-```
+<table>
+  <tr>
+    <td>
+      <img width="405" height="428" alt="image" src="https://github.com/user-attachments/assets/5c4a1f40-c3df-4d53-9bca-033264c20f84" />
+    </td>
+    <td>
+      <pre>
 8 rnbqkbnr
 7 pppppppp
 6  _ _ _ _
@@ -15,7 +19,10 @@ Chess is a terminal-and-X11 chess program that enforces every rule of chess, let
 1 RNBQKBNR
 
   abcdefgh
-```
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
