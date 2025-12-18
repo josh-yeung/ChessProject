@@ -4,6 +4,19 @@ Chess is a terminal-and-X11 chess program that enforces every rule of chess, let
 
 <img width="405" height="428" alt="image" src="https://github.com/user-attachments/assets/5c4a1f40-c3df-4d53-9bca-033264c20f84" />
 
+```
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+```
+
 ## Features
 
 - Validates all moves, including castling, en passant, promotion, and stalemate/checkmate detection.
